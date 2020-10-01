@@ -1,4 +1,4 @@
-## Wing-Yee Does Scream
+### Wing-Yee Does Scream
 
 You can use the [editor on GitHub](https://github.com/wingyeescreams/wingyeescreams.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
